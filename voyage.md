@@ -33,7 +33,7 @@
 	1.	Depart 12h Arrive 20H30
 
 *	todo :
-	*	[Tour de londre][1]
+	*	[Tour de londre][1] [Localisation][2]
 	*	[Picadilly circus][8]
 	*	[Puce][3]
 	*	Car touriste
