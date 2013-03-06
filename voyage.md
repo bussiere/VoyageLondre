@@ -14,7 +14,7 @@
 
 	1.	Depart 8H30 Arrive ~ 15H30 Galieni [Localisation][9]
 
-	2.	[Hackerspace][5] 19h Localisation[6]
+	2.	[Hackerspace][5] 19h [Localisation][6]
 
 
 
@@ -40,11 +40,11 @@
 	*	Doc martens
 
 *	url :
-[http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596][0]
+	*	[http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596][0]
 
-[http://www.londres-week-end.com/shopping-londres/marches-puces-londres.htm][3]
+	*	[http://www.londres-week-end.com/shopping-londres/marches-puces-londres.htm][3]
 
-[http://www.tripadvisor.fr/ShowTopic-g186338-i17-k2845425-Quelle_carte_de_transport_choisir_a_Londres-London_England.html][4]
+	*	[http://www.tripadvisor.fr/ShowTopic-g186338-i17-k2845425-Quelle_carte_de_transport_choisir_a_Londres-London_England.html][4]
 
 
 
