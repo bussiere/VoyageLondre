@@ -1,31 +1,33 @@
-Mardi 19
+[0]: http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596  "Demande sur geekzone"
 
-Depart 8H30 Arrive ~ 15H30
+*	Mardi 19
 
-Hackerspace
+	1.	Depart 8H30 Arrive ~ 15H30
+
+	2.	Hackerspace
 
 
 
-Mercredi 20
+*	Mercredi 20
 
-Louie CK
+	1.	Louie CK
 
-Jeudi 21
+*	Jeudi 21
 
-Vendredi 22
+*	Vendredi 22
 
-Samedi 23
+*	Samedi 23
 
-Dimanche 24
+*	Dimanche 24
 
-Depart 12h Arrive 20H30
+	1.	Depart 12h Arrive 20H30
 
-todo :
-Tour de londre
-Picadilley circus
-Puce
-Car touriste
-Doc martens
+*	todo :
+	*	Tour de londre
+	*	Picadilley circus
+	*	Puce
+	*	Car touriste
+	*	Doc martens
 
-url :
-http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596
+*	url :
+[http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596][0]
