@@ -8,7 +8,7 @@
 [7]: https://maps.google.fr/maps?client=ubuntu&channel=cs&ie=UTF-8&q=The+O2London&fb=1&gl=fr&hq=The+O2London&cid=0,0,15474486873172545006&ei=O043UaK6C8LZOtzngcAM&ved=0CKsBEPwSMAA "Localisation 02"
 [8]: https://maps.google.fr/maps?client=ubuntu&channel=cs&q=piccadilly+circus&ie=UTF-8&hq=&hnear=0x487604d3ff83b05b:0x122049db1736af9,Piccadilly+Circus,+City+of+Westminster,+London+W1D,+UK&gl=fr&ei=g083UdHAHMWROKOUgKgH&ved=0CLcBELYD "Picadilly circus"
 [9]: https://maps.google.fr/maps?hl=fr&safe=off&client=ubuntu&hs=BJw&channel=cs&q=gallieni+metro&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.43287494,d.ZWU&biw=1276&bih=850&um=1&ie=UTF-8&sa=N&tab=wl "Gare Euroline"
-
+[10]: http://www.bbc.co.uk/london/travel/downloads/tube_map.gif "Plan de metro londonien"
 
 *	Mardi 19
 
@@ -40,6 +40,9 @@
 	*	Doc martens
 
 *	url :
+
+	*	[Carte du metro Londonien][10]
+
 	*	[http://www.geekzone.fr/ipb/topic/50617-voyage-a-londres-pour-un-geek/?hl=%2Blondres#entry827596][0]
 
 	*	[http://www.londres-week-end.com/shopping-londres/marches-puces-londres.htm][3]
