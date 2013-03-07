@@ -52,7 +52,18 @@
 
 
 
+pour soirée Slimelight London, pour bar, Intrepid Fox, Hobgoblins... et j'en passe
+The World Ends à Camden. Et la Namco Station (grande salle d'arcade) à Westminster, juste à côté du london eye
 
+
+
+
+sous le World's End : l'Underworld ! Hésite pas à jeter un œil à leur programmation.
+
+Pierre Executed namco et world's end très cool aussi ! mais le namco tu dépense vite beaucoup ppour pas grand chose
+
+
+Cécile Benson Stabler Camden town !
 
 
 
